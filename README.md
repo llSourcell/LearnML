@@ -46,7 +46,7 @@ Week 1: [Neural Networks (Interactive Dive into Deep Learning Book)](http://d2l.
 
 Week 2: [Transformers (HuggingFace Course)](https://huggingface.co/course/chapter1/1) 
 
-[Assignment](https://github.com/karpathy/minGPT/blob/master/mingpt/model.py): Build a conversational transformer for Mental Health therapy. Specifically, train Mini-GPT to have a therapeutic conversation by uploading it to [Google colab](https://colab.research.google.com/) for training. 
+[Assignment](https://github.com/karpathy/minGPT/blob/master/mingpt/model.py): Build a conversational transformer for Mental Health therapy.  Read the full code of Mini-GPT, then train it to have a therapeutic conversation by uploading it to [Google colab](https://colab.research.google.com/) for training. 
 
 Week 3: [Diffusers (Fast.AI Course)](https://www.fast.ai/posts/part2-2022-preview.html)
 
