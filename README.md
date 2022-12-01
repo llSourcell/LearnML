@@ -73,7 +73,7 @@ Week 3: [Production (DataTalks.CLub ML Ops ZoomCamp)](https://github.com/DataTal
 
 [Assignment](https://github.com/DataTalksClub/mlops-zoomcamp/blob/main/05-monitoring/homework.md) - Deploy a pretrained model for Traffic Prediction. Generate a report that detects any feature drift between model versions. 
 
-Week 4: [Data Engineering (DataTalks.CLub Data Engineering ZoomCamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/)
+Week 4: [Data Engineering (DataTalks.CLub Data Engineering ZoomCamp)](https://github.com/DataTalksClub/data-engineering-zoomcamp/)
 
 [Final](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_7_project) - Deploy a Self Driving Car Simulation app. This [Javascript](https://github.com/omuryildirim/before-evening) example is a great starting point. Integrate NLP, Computer Vision, Reinforcement Learning, & ML Ops. 
 
