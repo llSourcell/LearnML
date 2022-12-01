@@ -67,7 +67,7 @@ Week 2: [Development (Full Stack Deep Learning Course)](https://fullstackdeeplea
 
 [Assignment](https://fullstackdeeplearning.com/course/2022/lab-7-web-deployment/) - Deploy a full-stack text recognition app for Editors. Use any experiment tracking & model management tools you learn to build this.
 
-Week 3: [Production (DataTalks.Club ML Ops ZoomCamp](https://github.com/DataTalksClub/mlops-zoomcamp)
+Week 3: [Production (DataTalks.Club ML Ops ZoomCamp)](https://github.com/DataTalksClub/mlops-zoomcamp)
 
 [Assignment](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/07-project) - Deploy a full stack educational tutor chatbot for a STEM domain of your choice, i.e Biology, Machine Learning, Botany, etc.
 
