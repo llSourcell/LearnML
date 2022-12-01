@@ -39,7 +39,7 @@ Week 3: [Mathematics of Machine Learning (xaktly.com)](http://www.xaktly.com/XMa
 
 Week 4: [Machine Learning Techniques (Cyrille Rossant)](https://github.com/ipython-books/cookbook-2nd)
 
-[Assignment](https://github.com/ipython-books/cookbook-2nd/blob/master/chapter08_ml/06_random_forest.md): Build a Random Forest Regression model for Real Estate. Feature engineer a dataset to predict the price of houses next year in Boston
+[Assignment](https://github.com/ipython-books/cookbook-2nd/blob/master/chapter08_ml/06_random_forest.md): Build a Random Forest Regression model for Real Estate. Clean, augment, & feature engineer a dataset to predict the price of houses next year in Boston
 
 ## Month 2 - Deep Learning 🔥🔥
 
