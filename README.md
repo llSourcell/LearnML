@@ -45,7 +45,7 @@ Week 1: [Neural Networks (Interactive Dive into Deep Learning Book)](http://d2l.
 
 [Assignment](http://d2l.ai/chapter_linear-classification/image-classification-dataset.html): Build a feedforward neural network for Retail. The network classifies images of clothing after training on a labeled dataset. 
 
-Week 2: [Transformers (HuggingFace Course](https://huggingface.co/course/chapter1/1) 
+Week 2: [Transformers (HuggingFace Course)](https://huggingface.co/course/chapter1/1) 
 
 [Assignment](https://github.com/karpathy/minGPT/blob/master/mingpt/model.py): Build a conversational transformer for Mental Health therapy. Specifically, train Mini-GPT to have a therapeutic conversation by uploading it to [Google colab](https://colab.research.google.com/) for training. 
 
