@@ -43,7 +43,7 @@ Week 4: [Machine Learning Techniques (Cyrille Rossant)](https://github.com/ipyth
 
 ## Month 2 - Deep Learning 🔥🔥
 
-Week 1: [Neural Networks (Interactive Dive into Deep Learning Book](http://d2l.ai/)
+Week 1: [Neural Networks (Interactive Dive into Deep Learning Book)](http://d2l.ai/)
 
 [Assignment](https://github.com/ludobouan/pure-numpy-feedfowardNN/blob/master/example/Exploring_XOR_approximation.ipynb): Build a simple feedforward neural network for Retail. Upload the Jupyter Notebook to [Colab](https://colab.research.google.com/),  modify input data, monitor how it effects accuracy
 
@@ -51,7 +51,7 @@ Week 2: [Transformers (HuggingFace Course)](https://huggingface.co/course/chapte
 
 [Assignment](https://github.com/karpathy/minGPT/blob/master/mingpt/model.py): Build a conversational transformer for Mental Health therapy. Specifically, train Mini-GPT to have a therapeutic conversation by uploading it to Colab for training. 
 
-Week 3: [Diffusers (Fast.AI Course](https://www.fast.ai/posts/part2-2022-preview.html)
+Week 3: [Diffusers (Fast.AI Course)](https://www.fast.ai/posts/part2-2022-preview.html)
 
 [Assignment](https://huggingface.co/spaces): Build a design generator for Architects. Create a HuggingFace Space, select an existing image dataset, & create a web interface to generate designs.
 
@@ -61,7 +61,7 @@ Week 4: [Deep Reinforcement Learning (Simonini Thomas)](https://simoninithomas.g
 
 ## Month 3 - Machine Learning Operations 🔥🔥🔥
 
-Week 1: [Design (Made with ML Course](https://madewithml.com/)
+Week 1: [Design (Made with ML Course)](https://madewithml.com/)
 
 [Assignment](https://madewithml.com/courses/mlops/design/): Design a Medical Imaging Classification app for Doctors. Create the product requirements, design documentation, & project plan. 
 
