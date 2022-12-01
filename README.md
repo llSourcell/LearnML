@@ -27,7 +27,7 @@ Week 1: [Python Fundamentals (Allen Downey)](https://allendowney.github.io/DSIRP
 
 [Assignment](https://allendowney.github.io/DSIRP/pagerank.html): Build a Python search function for Researchers. Given a list of search terms, return a list of pages sorted by relevancy. Modify the example with your own alpha parameter.
 
-Week 2: [Data Analysis (Kaggle)](https://www.kaggle.com/learn)
+Week 2: [Data Analysis (Kaggle Learn)](https://www.kaggle.com/learn)
 
 [Assignment](https://www.kaggle.com/code/scratchpad/notebookf0199fb21f/edit): Build a Data Visualization iPython notebook for Farmers. Search Kaggle for an agricultural dataset, then visualize it 3 different ways for comparison & further analysis.
 
@@ -49,7 +49,7 @@ Week 2: [Transformers (HuggingFace Course)](https://huggingface.co/course/chapte
 
 [Assignment](https://github.com/karpathy/minGPT/blob/master/mingpt/model.py): Build a conversational transformer for Mental Health therapy. Specifically, train Mini-GPT to have a therapeutic conversation by uploading it to [Google colab](https://colab.research.google.com/) for training. 
 
-Week 3: [Diffusers (Fast.AI)](https://www.fast.ai/posts/part2-2022-preview.html)
+Week 3: [Diffusers (Fast.AI Course)](https://www.fast.ai/posts/part2-2022-preview.html)
 
 [Assignment](https://huggingface.co/spaces): Build a design generator for Architects. Create a HuggingFace Space, select an existing image dataset, & create a web interface to generate designs.
 
@@ -59,7 +59,7 @@ Week 4: [Deep Reinforcement Learning (Simonini Thomas)](https://simoninithomas.g
 
 ## Month 3 - Machine Learning Operations with PyTorch 🔥🔥🔥
 
-Week 1: [Design (Goku Mohandas)](https://madewithml.com/)
+Week 1: [Design (Made with ML Course)](https://madewithml.com/)
 
 [Assignment](https://madewithml.com/courses/mlops/design/): Design a full-stack Medical Imaging Classification app for Doctors. Create the product requirements, design documentation, & project plan. 
 
