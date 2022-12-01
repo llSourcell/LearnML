@@ -41,37 +41,37 @@ Week 4: [Machine Learning Techniques (Cyrille Rossant)](https://github.com/ipyth
 
 ## Month 2 - Deep Learning with PyTorch 🔥🔥
 
-Week 1: [Neural Networks](http://d2l.ai/)
+Week 1: [Neural Networks (Interactive Dive into Deep Learning Book)](http://d2l.ai/)
 
 [Assignment](http://d2l.ai/chapter_linear-classification/image-classification-dataset.html): Build a feedforward neural network for Retail. The network classifies images of clothing after training on a labeled dataset. 
 
-Week 2: [Transformers](https://huggingface.co/course/chapter1/1) 
+Week 2: [Transformers (HuggingFace Course](https://huggingface.co/course/chapter1/1) 
 
 [Assignment](https://github.com/karpathy/minGPT/blob/master/mingpt/model.py): Build a conversational transformer for Mental Health therapy. Specifically, train Mini-GPT to have a therapeutic conversation by uploading it to [Google colab](https://colab.research.google.com/) for training. 
 
-Week 3: [Diffusers](https://www.fast.ai/posts/part2-2022-preview.html)
+Week 3: [Diffusers (Fast.AI)](https://www.fast.ai/posts/part2-2022-preview.html)
 
 [Assignment](https://huggingface.co/spaces): Build a design generator for Architects. Create a HuggingFace Space, select an existing image dataset, & create a web interface to generate designs.
 
-Week 4: [Deep Reinforcement Learning](https://simoninithomas.github.io/deep-rl-course/)
+Week 4: [Deep Reinforcement Learning (Simonini Thomas)](https://simoninithomas.github.io/deep-rl-course/)
 
 [Assignment](https://colab.research.google.com/github/deepmind/mujoco/blob/main/python/LQR.ipynb#scrollTo=dDLihz5hk9Wt): Train a Humanoid Robot to walk in simulation within a Jupyter Notebook for Construction projects. Generate a 10 second video of the humanoid walking.
 
 ## Month 3 - Machine Learning Operations with PyTorch 🔥🔥🔥
 
-Week 1: [Design](https://madewithml.com/)
+Week 1: [Design (Goku Mohandas)](https://madewithml.com/)
 
 [Assignment](https://madewithml.com/courses/mlops/design/): Design a full-stack Medical Imaging Classification app for Doctors. Create the product requirements, design documentation, & project plan. 
 
-Week 2: [Development](https://fullstackdeeplearning.com/course/2022/)
+Week 2: [Development (Full Stack Deep Learning Course)](https://fullstackdeeplearning.com/course/2022/)
 
 [Assignment](https://fullstackdeeplearning.com/course/2022/lab-7-web-deployment/) - Deploy a full-stack text recognition app for Editors. Use any experiment tracking & model management tools you learn to build this.
 
-Week 3: [Production](https://github.com/DataTalksClub/mlops-zoomcamp)
+Week 3: [Production (DataTalks.Club ML Ops ZoomCamp](https://github.com/DataTalksClub/mlops-zoomcamp)
 
 [Assignment](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main/07-project) - Deploy a full stack educational tutor chatbot for a STEM domain of your choice, i.e Biology, Machine Learning, Botany, etc.
 
-Week 4: [Data Engineering](https://github.com/DataTalksClub/data-engineering-zoomcamp/)
+Week 4: [Data Enginering (DataTalks.Club Data Engineering ZoomCamp)](https://github.com/DataTalksClub/data-engineering-zoomcamp/)
 
 [Assignment](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_7_project) - Build a full-stack Self Driving Car Simulation app. This [Javascript](https://github.com/omuryildirim/before-evening) example is a good starting point. Integrate NLP, Computer Vision, Reinforcement Learning, & ML Ops. 
 
