@@ -75,7 +75,7 @@ Week 3: [Production (DataTalks.CLub ML Ops ZoomCamp)](https://github.com/DataTal
 
 Week 4: [Data Engineering (DataTalks.CLub Data Engineering ZoomCamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/)
 
-[Final](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_7_project) - Deploy a Self Driving Car Simulation app. This [Javascript](https://github.com/omuryildirim/before-evening) example is a starting point. Integrate NLP, Computer Vision, Reinforcement Learning, & ML Ops. 
+[Final](https://github.com/DataTalksClub/data-engineering-zoomcamp/tree/main/week_7_project) - Deploy a Self Driving Car Simulation app. This [Javascript](https://github.com/omuryildirim/before-evening) example is a great starting point. Integrate NLP, Computer Vision, Reinforcement Learning, & ML Ops. 
 
 ---------------------
 
