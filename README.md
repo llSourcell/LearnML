@@ -29,13 +29,13 @@ Week 1: [Python Fundamentals (Allen Downey)](https://allendowney.github.io/DSIRP
 
 [Assignment](https://allendowney.github.io/DSIRP/pagerank.html): Build a Python search function for Researchers. Given a list of search terms, return a list of pages sorted by relevancy. Modify the example with your own alpha parameter.
 
-Week 2: [Data Analysis (Kaggle)](https://www.kaggle.com/learn)
-
-[Assignment](https://www.kaggle.com/code/scratchpad/notebookf0199fb21f/edit): Build a data visualization iPython notebook for Farmers. Search Kaggle for an agricultural dataset, then visualize it 3 different ways for comparison & further analysis.
-
-Week 3: [Mathematics of Machine Learning (xaktly.com)](http://www.xaktly.com/XMathMain.html)
+Week 2: [Mathematics of Machine Learning (xaktly.com)](http://www.xaktly.com/XMathMain.html)
 
 [Assignment](http://www.xaktly.com/ProbabilityBayesian.html): Solve the Bayesian probability problem for Supply Chain using pencil & paper. Do so after completing each full section on Calculus, Probability, Statistics, & Matrices. 
+
+Week 3: [Data Analysis (Kaggle)](https://www.kaggle.com/learn)
+
+[Assignment](https://www.kaggle.com/code/scratchpad/notebookf0199fb21f/edit): Build a data visualization iPython notebook for Farmers. Search Kaggle for an agricultural dataset, then visualize it 3 different ways for comparison & further analysis.
 
 Week 4: [Machine Learning Techniques (Cyrille Rossant)](https://github.com/ipython-books/cookbook-2nd)
 
