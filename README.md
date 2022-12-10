@@ -4,10 +4,10 @@
 
 ##### Overview
 
-This is the Curriculum  for [Learn Machine Learning in 3 months (PyTorch Curriculum)](https://youtu.be/9rDhY1P3YLA) by Siraj Raval on Youtube. Beginners to Python will learn to build, train, deploy, scale & maintain modern Machine learning & Deep learning models. Each weekly assignment will teach you how to use a new concept or tool, like Docker, PyTorch, or Transformer Models. The Final Project will integrate everything you've learned into a Self Driving Car simulation. After completion, start an ML startup or find relevant work in the field. Together as a learning community, we're going to help each other succeed! 
+This is the Curriculum  for [Learn Machine Learning in 3 months (PyTorch Curriculum)](https://youtu.be/dS2HYPY7T-4) by Siraj Raval on Youtube. Beginners to Python will learn to build, train, deploy, scale & maintain modern Machine learning & Deep learning models. Each weekly assignment will teach you how to use a new concept or tool, like Docker, PyTorch, or Transformer Models. The Final Project will integrate everything you've learned into a Self Driving Car simulation. After completion, start an ML startup or find relevant work in the field. Together as a learning community, we're going to help each other succeed! 
 
 ##### Components
-- 🤝 Social: Join our [Discord](http://wizards.herokuapp.com) channel to find a study buddy
+- 🤝 Social: Join our [Discord](https://discord.gg/22amqfu2) channel to find a study buddy
 - ✨ Interactive: Every resource is web-based with user input
 - 🧑‍🎓 Beginner-Friendly: Build weekly projects without dependencies thanks to [codespaces](https://github.com/codespaces)
 - 🤖 Project-Based: Learn Computer Vision, Natural Language Processing, Time Series Forecasting, Audio Processing, & Recommender Systems
