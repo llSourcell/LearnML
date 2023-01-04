@@ -35,7 +35,7 @@ Week 2: [Mathematics of Machine Learning (xaktly.com)](http://www.xaktly.com/XMa
 
 Week 3: [Data Analysis (Kaggle)](https://www.kaggle.com/learn)
 
-[Assignment](https://www.kaggle.com/code/scratchpad/notebookf0199fb21f/edit): Build a data visualization iPython notebook for Farmers. Search Kaggle for an agricultural dataset, then visualize it 3 different ways for comparison & further analysis.
+[Assignment](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset): Build a data visualization iPython notebook for Farmers. Search Kaggle for an agricultural dataset, then visualize it 3 different ways for comparison & further analysis.
 
 Week 4: [Machine Learning Techniques (Cyrille Rossant)](https://github.com/ipython-books/cookbook-2nd)
 
